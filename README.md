@@ -34,10 +34,9 @@
     <section>
         <h2>Subjects Offered</h2>
         <ul>
-            <li>Math Tutoring</li>
-            <li>Science Tutoring</li>
-            <li>English & Writing</li>
-            <li>Test Prep (SAT, ACT, etc.)</li>
+            <li>A Level Maths Tutoring/li>
+            <li>GCSE Maths Tutoring</li>
+            <li>CIE Paper 4 Programming</li>
         </ul>
         <button>View All Services</button>
     </section>
